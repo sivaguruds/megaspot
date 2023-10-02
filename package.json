@@ -1,0 +1,22 @@
+{
+  "name": "megaspot",
+  "version": "1.0.0",
+  "description": "blog managment",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sivaguruds/megaspot.git"
+  },
+  "keywords": [
+    "blog"
+  ],
+  "author": "sivaguru",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sivaguruds/megaspot/issues"
+  },
+  "homepage": "https://github.com/sivaguruds/megaspot#readme"
+}
